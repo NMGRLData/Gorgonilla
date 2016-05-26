@@ -1,0 +1,66 @@
+{
+    "aliquot": 4, 
+    "analysis_type": "unknown", 
+    "collection_version": "0.1:0.1", 
+    "comment": "K:1 Single Tectite bead", 
+    "commit": "8229a5e64816a153fb2ce4c8cb66511bda1f339f", 
+    "conditionals": null, 
+    "detectors": {
+        "AX": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "H2": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L1": {
+            "deflection": 0, 
+            "gain": 0
+        }, 
+        "L2(CDD)": {
+            "deflection": 0, 
+            "gain": 0
+        }
+    }, 
+    "extraction": "felix_diode.py", 
+    "identifier": "65018", 
+    "increment": 7, 
+    "intensity_scalar": 0.0, 
+    "irradiation": "NM-283", 
+    "irradiation_level": "K", 
+    "irradiation_position": 1, 
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2(CDD)"
+        }, 
+        "Ar37": {
+            "detector": "L1"
+        }, 
+        "Ar38": {
+            "detector": "AX"
+        }, 
+        "Ar39": {
+            "detector": "H1"
+        }, 
+        "Ar40": {
+            "detector": "H2"
+        }
+    }, 
+    "mass_spectrometer": "Felix", 
+    "material": "ImpactSherules", 
+    "measurement": "felix_analysis400_120.py", 
+    "project": "Keller", 
+    "queue_conditionals_name": "", 
+    "repository_identifier": "Gorgonilla", 
+    "sample": "Gorgonilla", 
+    "spec_sha": "f5bf3da4c0acf4a6eb7e30b93900b20ca090f3ba", 
+    "timestamp": "2016-05-26T08:01:20.456858", 
+    "tripped_conditional": null, 
+    "username": "", 
+    "uuid": "ed211dfc-7dba-4585-9c89-db63b377ed2d"
+}
